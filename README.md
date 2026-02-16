@@ -1,4 +1,3 @@
-```markdown
 # Reddit Earnings Sentiment Analysis
 ## Corporate Earnings Influence on Reddit Discussions
 
