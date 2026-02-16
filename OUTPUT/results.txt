@@ -1,0 +1,35 @@
+==================================================
+STATISTICAL ANALYSIS RESULTS
+==================================================
+
+[Sentiment Analysis]
+  Metric: Mean VADER Compound Score
+  Beat Group: 0.1049
+  Miss Group: 0.1359
+  Difference: -0.0310
+  P-Value:    0.3896
+  -> RESULT: No Significant Difference
+
+[Negativity Analysis]
+  Metric: Proportion of Negative Comments
+  Beat Group: 0.2404
+  Miss Group: 0.2011
+  Difference: 0.0393
+  P-Value:    0.2595
+  -> RESULT: No Significant Difference
+
+[Engagement Volume]
+  Metric: Mean Comments per Earnings Event
+  Beat Group: 216.3333
+  Miss Group: 94.5000
+  Difference: 121.8333
+  P-Value:    0.3864
+  -> RESULT: No Significant Difference
+
+[Reaction Timing]
+  Metric: Mean Hours After Earnings
+  Beat Group: 29.5895
+  Miss Group: 29.7763
+  Difference: -0.1868
+  P-Value:    0.9349
+  -> RESULT: No Significant Difference
